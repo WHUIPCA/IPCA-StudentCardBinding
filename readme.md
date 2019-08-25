@@ -5,14 +5,8 @@
 - 校园卡
 
 食用流程
-1. 到学校授权的中国银行网点卡一张学费卡。 和柜员说一下就好啦～ 
-两个网点： 
-	1. 中国银行武大支行 : （离文理学部财务部很近）
-		1. [微软地图](https://cn.maps.windows.com/?form=WNAMSH&entity=local_ypid%3AYN4067x4178807)
-		2. [高德地图](https://ditu.amap.com/place/B001B0IRIN)
-		3. [百度地图](https://j.map.baidu.com/5f/GPg)
-		4. [苹果地图](https://maps.apple.com/?address=%E4%B8%AD%E5%9B%BD%E6%B9%96%E5%8C%97%E7%9C%81%E6%AD%A6%E6%B1%89%E5%B8%82%E6%AD%A6%E6%98%8C%E5%8C%BA%E5%85%AB%E4%B8%80%E8%B7%AF483%E5%8F%B7%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E4%B8%89%E5%8C%BA%E7%BB%BC%E5%90%88%E6%9C%8D%E5%8A%A1%E5%A4%A7%E6%A5%BC1%E5%B1%82&auid=1117162366138319&ll=30.532872,114.364392&lsp=57879&q=%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C(%E6%AD%A6%E5%A4%A7%E6%94%AF%E8%A1%8C)&_ext=CiQKBAgEEAQKBAgFEAMKBAgGEGYKBAgKEAEKBAgbEAMKBAgdEHUSJCmh9habG4Y+QDEmQFNPkpZcQDnh8TL+uIo+QEEgNlIWEphcQA%3D%3D&t=m)
-	2. 中国银行珞珈山支行 : （离雅各楼很近）
+1. 到学校授权的中国银行网点卡一张学费卡。
+	1. 中国银行珞珈山支行 : （离雅各楼很近）
 		1. [微软地图](https://cn.maps.windows.com/?form=WNAMSH&entity=local_ypid%3AYN4067x28777085)
 		2. [高德地图](https://ditu.amap.com/place/B001B0IQZ3)
 		3. [百度地图](https://j.map.baidu.com/ab/GGg)
